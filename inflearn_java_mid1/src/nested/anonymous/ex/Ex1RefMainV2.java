@@ -3,7 +3,7 @@ package nested.anonymous.ex;
 import java.util.Random;
 
 //지역 클래스 사용
-public class Ex1RefMainV2 {
+public class Ex1RefMainV2  {
     public static void hello(Process process) {
         System.out.println("프로그램 시작");
         //코드 조각 시작
